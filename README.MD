@@ -5,8 +5,9 @@
 🚀 **Cutting-Edge Platform for In-Depth Analysis of Tesla and Financial Markets**
 
 
-
 This GitHub repository is dedicated to sharing an innovative data science project. The primary objective of this endeavor is to perform a comprehensive analysis of the automotive and stock market domains, with a specific focus on Tesla. Utilizing advanced data analysis, visualization techniques, and machine learning methods, we aim to predict and understand future market trends.
+
+
 
 ## Features
 
@@ -24,7 +25,9 @@ This GitHub repository is dedicated to sharing an innovative data science projec
 
 ## Contact
 
-For further project details or contributions, please feel free to contact us at [piinartp@gmail.com](mailto:piinartp@gmail.com).
+For further project details or contributions, please feel free to contact us at piinartp@gmail.com.
 
----
+
+
 **© 2023.** Pınar Topuz - TeslaProVista is released under the MIT License.
+
